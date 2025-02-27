@@ -7,7 +7,6 @@ This repository houses my portfolio artifacts from CS 350. These projects showca
 ## Project Artifacts
 
 - **SmartThermostat-Prototype**: A Raspberry Pi based smart thermostat featuring a state machine for off/heat/cool modes, AHT20 sensor integration, LED control, LCD display updates, and UART communication.
-- **[Second Artifact Name]**: [A brief description of the second project artifact, highlighting its focus and your contributions.]
 
 ## Reflection
 
