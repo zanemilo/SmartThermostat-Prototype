@@ -2,36 +2,36 @@
 
 ## Repository Overview
 
-This repository contains artifacts from my CS 350 projects, showcasing my skills in emerging systems architectures and technologies. The projects demonstrate my ability to write interface software to control hardware components, analyze hardware architecture design, and justify technology decisions based on business requirements.
+This repository houses my portfolio artifacts from CS 350. These projects showcase my skills in emerging systems architectures and technologies through hands-on work with both hardware and software. In these projects, I designed and implemented interface software to control hardware components, conducted thorough debugging and testing, and documented my process extensively. My work demonstrates my ability to work with embedded systems, state machines, and integrated hardware-software solutions.
 
 ## Project Artifacts
 
-- **SmartThermostat-Prototype**: A Raspberry Pi-based smart thermostat project that includes state machine functionality, sensor integration (AHT20), LED control, LCD display updates, and UART communication.
-- **[Additional Artifact Name]**: [Short description of the second artifact you selected.]
+- **SmartThermostat-Prototype**: A Raspberry Pi based smart thermostat featuring a state machine for off/heat/cool modes, AHT20 sensor integration, LED control, LCD display updates, and UART communication.
+- **[Second Artifact Name]**: [A brief description of the second project artifact, highlighting its focus and your contributions.]
 
 ## Reflection
 
 ### Summarize the project and what problem it was solving.
-The smart thermostat project was designed to create a prototype for a connected thermostat. It addresses the need for a system that can monitor and control room temperature efficiently, send status updates to a server, and serve as a stepping stone for integrating with cloud-based services.
+The smart thermostat project was created to develop a prototype capable of monitoring and controlling room temperature. It addresses the need for an efficient and connected thermostat system, which can serve as the basis for a market-ready product with cloud connectivity. By integrating sensor data, LED indicators, and an LCD display, the project solves the problem of real-time temperature management and remote monitoring.
 
 ### What did you do particularly well?
-I successfully implemented a state machine that seamlessly transitions between Off, Heat, and Cool modes. I also integrated multiple hardware components (sensors, LEDs, LCD, buttons, and UART) into one cohesive system. My code is modular, well-documented, and designed with maintainability in mind.
+I contributed significantly to all aspects of the project. I was deeply involved in coding the embedded software, composing the hardware configuration, and designing the system architecture. My efforts in debugging and testing ensured that the state machine and all peripheral integrations worked seamlessly. Additionally, I meticulously documented each stage of the project, making the design and code maintainable and easy to understand.
 
 ### Where could you improve?
-While the system meets all the project requirements, I recognize that error handling and resource cleanup could be further enhanced, especially for production-level applications. Improving these aspects would ensure even more robust performance under varying conditions.
+While the project successfully meets its requirements, I see opportunities to improve by scaling the system further. I plan to work on developing a fully soldered, standalone embedded system version of the prototype, which would be more robust and better suited for real-world applications. This next step would involve deeper hardware integration and more advanced manufacturing techniques.
 
 ### What tools and/or resources are you adding to your support network?
-I am expanding my support network with tools like GitHub for version control and project collaboration, as well as learning resources on Python programming for embedded systems. Additionally, online communities such as Stack Overflow and specialized forums for Raspberry Pi development are invaluable.
+I am leveraging GitHub for version control and collaboration, and I continuously engage with online communities such as Stack Overflow, Raspberry Pi forums, and embedded systems groups. Additionally, I am exploring new tools for hardware debugging and simulation, which will support my ongoing development work.
 
 ### What skills from this project will be particularly transferable to other projects and/or course work?
-The skills in interfacing hardware with software, managing state machines, and working with real-time data (from sensors) are highly transferable. Moreover, my experience in writing clean, maintainable code and integrating multiple hardware components will be applicable to future embedded systems projects and IoT applications.
+This project honed my skills in hardware-software integration, state machine design, and embedded system programming—all of which are highly transferable. The experience in interfacing with sensors, controlling LEDs, and managing real-time data feeds prepares me for future IoT projects and more complex system designs.
 
 ### How did you make this project maintainable, readable, and adaptable?
-I followed best coding practices by writing modular functions, adding comprehensive comments, and organizing my code into logical sections. I used a state machine to separate concerns, ensuring each state’s behavior is encapsulated. This structure not only makes the project easier to understand and debug but also simplifies future enhancements and adaptations.
+I emphasized modular design, clear code documentation, and a structured state machine approach to keep the project maintainable. By separating functionality into well-defined methods and classes, I ensured that the code remains readable and can be easily adapted for future enhancements. Additionally, thorough commenting and version control practices further contribute to the system's adaptability and long-term maintainability.
 
 ## Conclusion
 
-This project has been a valuable learning experience, reinforcing my ability to develop integrated hardware/software systems. I am confident that the skills and techniques demonstrated here will be applicable to a wide range of future projects in my computer science career.
+This portfolio artifact represents my comprehensive involvement in designing, coding, testing, and documenting an integrated smart thermostat system. I am excited about the opportunity to further scale and refine this project into a fully standalone embedded solution in the future.
 
 ---
-*For additional details or questions, feel free to contact me or view my GitHub profile.*
+*For more details or to view my complete portfolio, please visit my GitHub profile.*
