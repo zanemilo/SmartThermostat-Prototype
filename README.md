@@ -7,6 +7,7 @@ This repository houses my portfolio artifacts from CS 350. These projects showca
 ## Project Artifacts
 
 - **SmartThermostat-Prototype**: A Raspberry Pi based smart thermostat featuring a state machine for off/heat/cool modes, AHT20 sensor integration, LED control, LCD display updates, and UART communication.
+- **Morse_Code_State_Machine_Proof_of_Concept**: A Python-based proof-of-concept that demonstrated controlling LEDs and implementing a proper state machine to send Morse code messages. This project was instrumental in teaching me how to interact with LEDs and manage state transitions effectively—skills that directly contributed to the development of the SmartThermostat-Prototype.
 
 ## Reflection
 
@@ -23,14 +24,14 @@ While the project successfully meets its requirements, I see opportunities to im
 I am leveraging GitHub for version control and collaboration, and I continuously engage with online communities such as Stack Overflow, Raspberry Pi forums, and embedded systems groups. Additionally, I am exploring new tools for hardware debugging and simulation, which will support my ongoing development work.
 
 ### What skills from this project will be particularly transferable to other projects and/or course work?
-This project honed my skills in hardware-software integration, state machine design, and embedded system programming—all of which are highly transferable. The experience in interfacing with sensors, controlling LEDs, and managing real-time data feeds prepares me for future IoT projects and more complex system designs.
+This project honed my skills in hardware-software integration, state machine design, and embedded system programming—all of which are highly transferable. The experience in interfacing with sensors, controlling LEDs, and managing real-time data feeds prepares me for future IoT projects and more complex system designs. Additionally, my earlier work on the Morse Code State Machine Proof-of-Concept reinforced my ability to interact with LEDs and design effective state machines, directly influencing the development of the SmartThermostat-Prototype.
 
 ### How did you make this project maintainable, readable, and adaptable?
 I emphasized modular design, clear code documentation, and a structured state machine approach to keep the project maintainable. By separating functionality into well-defined methods and classes, I ensured that the code remains readable and can be easily adapted for future enhancements. Additionally, thorough commenting and version control practices further contribute to the system's adaptability and long-term maintainability.
 
 ## Conclusion
 
-This portfolio artifact represents my comprehensive involvement in designing, coding, testing, and documenting an integrated smart thermostat system. I am excited about the opportunity to further scale and refine this project into a fully standalone embedded solution in the future.
+This portfolio artifact represents my comprehensive involvement in designing, coding, testing, and documenting an integrated smart thermostat system, as well as the foundational work on a Morse Code State Machine that paved the way for advanced hardware interaction. I am excited about the opportunity to further scale and refine these projects into fully standalone embedded solutions in the future.
 
 ---
 *For more details or to view my complete portfolio, please visit my GitHub profile.*
